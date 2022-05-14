@@ -3,8 +3,14 @@
     color: #0000ff;
     font-size: 36px;
 }
+
 .odd-no
 {
     background-color: #af5757;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.num-3
+{
+    font-size: 24px;
 }
