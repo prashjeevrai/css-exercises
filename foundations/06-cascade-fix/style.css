@@ -3,12 +3,12 @@
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
 }
 
 .para {
-  font-size: 22px;
+  font-size: 24px;
 }
 
 .confirm {
