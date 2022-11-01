@@ -1,11 +1,10 @@
 .header  {
   display: flex;
-  font-family: monospace;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   background: papayawhip;
   justify-content: space-between;
   align-items: center;
 }
-
 .logo {
   font-size: 32px;
   font-weight: 900;
