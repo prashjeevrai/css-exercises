@@ -2,6 +2,8 @@
   display: flex;
   font-family: monospace;
   background: papayawhip;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .logo {
