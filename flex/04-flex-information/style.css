@@ -26,6 +26,12 @@ img {
   flex-direction: column;
   width: 200px;
   height: auto;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.text {
+  text-align: center;
 }
 
 /* do not edit this footer */
