@@ -19,6 +19,7 @@ ul {
   list-style-type: none;
   display: flex;
   padding: 4px 8px;
+  align-items: flex-end;
 }
 
 a {
