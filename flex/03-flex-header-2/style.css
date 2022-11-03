@@ -15,6 +15,7 @@ body {
   display: flex; /*change*/
   gap: 16px;
   align-items: center;
+  padding: 8px;
 }
 
 .profile-image {
