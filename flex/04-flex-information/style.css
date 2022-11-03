@@ -17,11 +17,15 @@ img {
 
 .main-container {
   display:flex;
+  gap: 52px;
+  justify-content: center;
 }
 
 .box {
   display: flex;
   flex-direction: column;
+  width: 200px;
+  height: auto;
 }
 
 /* do not edit this footer */
