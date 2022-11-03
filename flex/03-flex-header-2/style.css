@@ -30,6 +30,13 @@ body {
   font-style: italic;
 }
 
+.right-side{
+  display: flex;
+  border: 1px solid red;
+  justify-content: flex-end;
+  flex: auto;
+}
+
 button {
   border: none;
   border-radius: 8px;
