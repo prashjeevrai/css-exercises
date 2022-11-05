@@ -35,6 +35,10 @@ body {
   justify-content: space-between;
 }
 
+.bottom-block {
+  display: flex;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
