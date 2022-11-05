@@ -15,6 +15,10 @@ body {
   justify-content: center;
 }
 
+.header {
+  font-size: 20px;
+  font-weight: 700;
+}
 .modal {
   background: white;
   width: 480px;
@@ -28,6 +32,7 @@ body {
 .right-block {
   display: flex;
   flex-direction: column;
+  column-gap: 20px;
 }
 
 .top-block {
