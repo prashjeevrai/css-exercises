@@ -59,7 +59,7 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  background-color:rgb(193, 187, 187);
+  background-color:#eeeeee;
 }
 
 .content {
