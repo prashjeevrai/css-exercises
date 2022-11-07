@@ -5,12 +5,13 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-  background: lavender;
+  background: white;
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-direction: column;
   justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 img {
@@ -43,16 +44,21 @@ ul {
 
 a {
   text-decoration: none;
+  color: rgb(54, 42, 42);
 }
 
 .header {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  padding: 10px;
+  border: 1px solid black;
 }
 
 .footer {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  padding: 10px;
+  background-color:rgb(193, 187, 187);
 }
