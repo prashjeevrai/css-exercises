@@ -52,7 +52,6 @@ a {
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  border: 1px solid black;
 }
 
 .footer {
@@ -61,4 +60,10 @@ a {
   justify-content: space-between;
   padding: 10px;
   background-color:rgb(193, 187, 187);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
