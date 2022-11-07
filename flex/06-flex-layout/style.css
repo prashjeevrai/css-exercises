@@ -36,6 +36,9 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 15px;
+  padding: 0px;
+  margin: 0px;
+  justify-content: space-between;
 }
 
 a {
@@ -43,10 +46,13 @@ a {
 }
 
 .header {
+  width: 100%;
   display: flex;
+  justify-content: space-between;
 }
 
 .footer {
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
