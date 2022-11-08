@@ -46,3 +46,8 @@ ul {
 .middle-block {
   display: flex;
 }
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
