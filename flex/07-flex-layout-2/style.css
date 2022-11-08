@@ -8,6 +8,8 @@ body {
 
 a {
   text-decoration: none;
+  font-size: 24px;
+  color: white;
   margin: 10px;
 }
 
@@ -46,7 +48,7 @@ ul {
   flex-direction: column;
   background: royalblue;
   width: 300px;
-  padding: 10px;
+  padding: 16px;
 }
 
 .card {
