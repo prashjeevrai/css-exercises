@@ -8,10 +8,13 @@ body {
 
 a {
   text-decoration: none;
+  margin: 10px;
 }
 
 ul {
   list-style: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 .header {
@@ -34,14 +37,18 @@ ul {
 
 .sidebar {
   display: flex;
+  flex-direction: column;
   background: royalblue;
+  width: 400px;
+  align-items: flex-start;
+  row-gap: 8px;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  width: 300px;
+  width: 350px;
   height: 400px;
 }
 
