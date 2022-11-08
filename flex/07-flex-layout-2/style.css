@@ -12,9 +12,13 @@ a {
 }
 
 ul {
+  display: flex;
+  flex-direction: column;
   list-style: none;
   margin: 0px;
   padding: 0px;
+  height: 100%;
+  gap: 10px;
 }
 
 .header {
@@ -36,7 +40,6 @@ ul {
 }
 
 .sidebar {
-  display: flex;
   flex-direction: column;
   background: royalblue;
   width: 400px;
